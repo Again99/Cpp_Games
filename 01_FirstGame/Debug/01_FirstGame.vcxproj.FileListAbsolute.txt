@@ -1,0 +1,2 @@
+D:\Project\CPP\Cpp_Games\01_FirstGame\Debug\01_FirstGame.exe
+D:\Project\CPP\Cpp_Games\01_FirstGame\Debug\01_FirstGame.pdb
